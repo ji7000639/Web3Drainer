@@ -11,3 +11,7 @@ After some digging, I discovered that most tokens with a 'Permit' function featu
 ## Assembling the Parameters for a 'Permit'
 
 Typically, you'll need parameters like `name`, `version`, and `nonce`. But is the ABI for `nonce` always the same? Not quite. There are several variations to look out for, such as `['nonces', '_nonces', 'nonce', 'getNonce']`. It's possible to make individual requests for these functions to retrieve the corresponding values, thus...
+
+Some might point out that I have not yet addressed DAI tokens, which indeed require special handling. To illustrate, much of what has been discussed can be found implemented in repositories like [1inch/permit-signed-approvals-utils](https://github.com/1inch/permit-signed-approvals-utils). This repository can be a starting point, one that you can modify to automatically generate the necessary signatures for permits.
+
+Stay with us as we peel back the layers of Web3 drainer services, offering insights and practical knowledge in the articles to come.
