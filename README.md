@@ -6,4 +6,4 @@ Our exploration will not only cover the technical blueprints of how to construct
 
 Stay tuned as we unravel the complexities of Web3 drainer services, piece by piece, in our upcoming articles.
 
-- [Web3 Unveiled-Auto-Generating Permits with Web3 Drainer Services.md](https://github.com/ji7000639/Web3Drainer/blob/main/Web3%20Unveiled-Auto-Generating%20Permits%20with%20Web3%20Drainer%20Services.md)
+- [Web3 Unveiled-Auto-Generating Permits with Web3 Drainer Services](https://github.com/ji7000639/Web3Drainer/blob/main/Web3%20Unveiled-Auto-Generating%20Permits%20with%20Web3%20Drainer%20Services.md)
